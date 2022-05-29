@@ -1,0 +1,43 @@
+
+body {
+background-color: black;
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 35px;
+    font-style: italic;
+}
+h2 {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+}
+h3 {
+    color: white;
+    text-align: left;
+    font-size: 25px;
+}
+body>p {
+    color: white;
+    font-size: 20px;
+}
+li {
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    }
+li>p {
+    font-style: italic;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+      
+}    
+li>h4 {
+    font-style: italic;
+    color: white;
+    font-size: 22px;
+    text-align: center; 
+}
